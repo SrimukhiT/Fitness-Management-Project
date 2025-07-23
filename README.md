@@ -54,6 +54,50 @@ User -> Login/Register
 -> Logout
 
 ---
+## Folder Structure
+Fitness-Management-Project/
+├── database/
+│   └── fitness.sql
+│
+├── screenshots/
+│   ├── Admin Dashboard-Client Details.png
+│   ├── Admin-page.png
+│   ├── Dashboard.png
+│   ├── HomePage-2.png
+│   ├── HomePage.png
+│   ├── Login-Page.png
+│   ├── MyHealthSpace.png
+│   └── RegistrationPage.png
+│
+├── src/
+│   └── main/
+│       ├── java/
+│       │   └── com/
+│       │       └── fitness/
+│       │           └── cse/
+│       │               ├── AdminLoginServlet.java
+│       │               ├── BMI.java
+│       │               ├── ChangePasswordServlet.java
+│       │               ├── LoginServlet.java
+│       │               ├── RegisterServlet.java
+│       │               └── WorkoutServlet.java
+│       │
+│       └── webapp/
+│           └── WEB-INF/
+│               ├── AdminLogin.jsp
+│               ├── ChangePassword.jsp
+│               ├── addWorkout.jsp
+│               ├── addWorkout1.jsp
+│               ├── dashboard.jsp
+│               ├── index.jsp
+│               ├── login.jsp
+│               └── profile.jsp
+│
+├── Fitness-Management-Project-Portfolio.pdf
+└── README.md
+
+---
+
 
 ## ▶️ How to Run This Project
 
