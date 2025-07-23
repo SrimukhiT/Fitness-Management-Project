@@ -56,10 +56,13 @@ User -> Login/Register
 ---
 ## Folder Structure
 Fitness-Management-Project/
+
 ├── database/
+
 │   └── fitness.sql
 │
 ├── screenshots/
+
 │   ├── Admin Dashboard-Client Details.png
 
 │   ├── Admin-page.png
@@ -77,30 +80,51 @@ Fitness-Management-Project/
 │   └── RegistrationPage.png
 │
 ├── src/
+
 │   └── main/
+
 │       ├── java/
+
 │       │   └── com/
+
 │       │       └── fitness/
+
 │       │           └── cse/
+
 │       │               ├── AdminLoginServlet.java
+
 │       │               ├── BMI.java
+
 │       │               ├── ChangePasswordServlet.java
+
 │       │               ├── LoginServlet.java
+
 │       │               ├── RegisterServlet.java
+
 │       │               └── WorkoutServlet.java
 │       │
 │       └── webapp/
+
 │           └── WEB-INF/
+
 │               ├── AdminLogin.jsp
+
 │               ├── ChangePassword.jsp
+
 │               ├── addWorkout.jsp
+
 │               ├── addWorkout1.jsp
+
 │               ├── dashboard.jsp
+
 │               ├── index.jsp
+
 │               ├── login.jsp
+
 │               └── profile.jsp
 │
 ├── Fitness-Management-Project-Portfolio.pdf
+
 └── README.md
 
 ---
