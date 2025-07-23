@@ -6,6 +6,7 @@ It allows users to register, log in, track their daily workouts, monitor BMI, re
 
 The system uses **Java (Servlets & JSP)** for the backend, **MySQL** for data storage, and **Apache Tomcat** as the server. It helps users improve health habits by recording daily weight and visualizing progress.
 
+---
 
 ## 🚀 Key Features
 - User registration and login system  
@@ -18,6 +19,7 @@ The system uses **Java (Servlets & JSP)** for the backend, **MySQL** for data st
   - BMI progress (chart)  
 - Admin portal for management  
 
+---
 
 ## 🛠️ Tech Stack Used
 - **Frontend**: HTML, CSS, JSP  
@@ -27,7 +29,7 @@ The system uses **Java (Servlets & JSP)** for the backend, **MySQL** for data st
 - **IDE**: Eclipse  
 
 
-
+---
 
 ## 🧱 System Architecture
 The system follows a **Model-View-Controller (MVC)** pattern:
@@ -36,16 +38,22 @@ The system follows a **Model-View-Controller (MVC)** pattern:
 - **View**: JSP pages for interaction  
 - **Controller**: Servlet logic controlling data flow  
 
+---
 
 ## Activity Diagram
 The system follows the following
+
 User -> Login/Register
+
 -> View Profile & BMI
+
 -> Add Today's Workout
+
 -> View Progress Charts
+
 -> Logout
 
-
+---
 
 ## ▶️ How to Run This Project
 
