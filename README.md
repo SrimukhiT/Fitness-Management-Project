@@ -55,6 +55,51 @@ User -> Login/Register
 
 ---
 ## Folder Structure
+
+```
+fitness-management-project/
+│
+├── database/
+│   └── fitness.sql
+│
+├── screenshots/
+│   ├── admin-dashboard-line-details.png
+│   ├── admin-page.png
+│   ├── dashboard.png
+│   ├── homepage2.png
+│   ├── homepage.png
+│   ├── login-page.png
+│   ├── myhealthspace.png
+│   └── registration-page.png
+│
+├── src/
+│   └── main/
+│       ├── java/
+│       │   └── com/
+│       │       └── fitness/
+│       │           └── cse/
+│       │               ├── adminloginServlet.java
+│       │               ├── bmi.java
+│       │               ├── changepasswordServlet.java
+│       │               ├── loginServlet.java
+│       │               ├── registerServlet.java
+│       │               └── workoutServlet.java
+│       └── webapp/
+│           └── WEB-INF/
+│               ├── addworkout.jsp
+│               ├── addworkout1.jsp
+│               ├── adminlogin.jsp
+│               ├── changepassword.jsp
+│               ├── dashboard.jsp
+│               ├── index.jsp
+│               ├── login.jsp
+│               └── profile.jsp
+│
+├── fitnessmanagementprojectportfolio.pdf
+│
+└── README.md
+```
+
 '''  Fitness-Management-Project/
 
 ├── database/
