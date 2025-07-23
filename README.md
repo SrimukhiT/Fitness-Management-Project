@@ -55,7 +55,7 @@ User -> Login/Register
 
 ---
 ## Folder Structure
-Fitness-Management-Project/
+'''Fitness-Management-Project/
 
 ├── database/
 
@@ -128,7 +128,7 @@ Fitness-Management-Project/
 │
 ├── Fitness-Management-Project-Portfolio.pdf
 
-└── README.md
+└── README.md'''
 
 ---
 
