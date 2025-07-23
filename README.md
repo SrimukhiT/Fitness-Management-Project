@@ -78,6 +78,7 @@ Fitness-Management-Project/
 │   ├── MyHealthSpace.png
 
 │   └── RegistrationPage.png
+
 │
 ├── src/
 
@@ -102,6 +103,7 @@ Fitness-Management-Project/
 │       │               ├── RegisterServlet.java
 
 │       │               └── WorkoutServlet.java
+
 │       │
 │       └── webapp/
 
@@ -122,6 +124,7 @@ Fitness-Management-Project/
 │               ├── login.jsp
 
 │               └── profile.jsp
+
 │
 ├── Fitness-Management-Project-Portfolio.pdf
 
