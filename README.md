@@ -61,12 +61,19 @@ Fitness-Management-Project/
 │
 ├── screenshots/
 │   ├── Admin Dashboard-Client Details.png
+
 │   ├── Admin-page.png
+
 │   ├── Dashboard.png
+
 │   ├── HomePage-2.png
+
 │   ├── HomePage.png
+
 │   ├── Login-Page.png
+
 │   ├── MyHealthSpace.png
+
 │   └── RegistrationPage.png
 │
 ├── src/
